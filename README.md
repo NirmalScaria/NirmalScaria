@@ -13,7 +13,7 @@ I am currently pursuing my Masters in Computer Applications from National Instit
 *   🤝  I'm open to collaborating on Dart, Flutter, Python, Django, SQL, Firebase
 *   ⚡  I feel romantically attracted to GitHub Copilot. Don't tell anyone.
 
-<a href="https://www.github.com/NirmalScaria" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/NirmalScaria" target="_blank" rel="noreferrer"></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -22,3 +22,5 @@ I am currently pursuing my Masters in Computer Applications from National Instit
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
                     </p>
+
+![image](https://profile-counter.glitch.me/NirmalScaria/count.svg)
