@@ -8,10 +8,10 @@ I am currently pursuing my Masters in Computer Applications from National Instit
 
 *   🖥️  See my portfolio at [scaria.dev](http://scaria.dev)
 *   ✉️  You can contact me at [scaria@scaria.dev](mailto:scaria@scaria.dev)
-*   🚀  I'm currently working on [Transiton](http://transiton.herokuapp.com)
+*   🚀  I'm currently working on [Le Git Graph](https://github.com/NirmalScaria/le-git-graph)
 *   🧠  I'm learning iOS Development and Machine Learning
 *   🤝  I'm open to collaborating on Dart, Flutter, Python, Django, SQL, Firebase
-*   ⚡  I feel romantically attracted to GitHub Copilot. Don't tell anyone.
+*   ⚡  I am batman
 
 <a href="https://www.github.com/NirmalScaria" target="_blank" rel="noreferrer"></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
