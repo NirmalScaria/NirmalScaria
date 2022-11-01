@@ -10,7 +10,7 @@ I am currently pursuing my Masters in Computer Applications from National Instit
 *   ✉️  You can contact me at [scaria@scaria.dev](mailto:scaria@scaria.dev)
 *   🚀  I'm currently working on [Le Git Graph](https://github.com/NirmalScaria/le-git-graph)
 *   🧠  I'm learning iOS Development and Machine Learning
-*   🤝  I'm open to collaborating on Dart, Flutter, Python, Django, SQL, Firebase
+*   🤝  I'm looking for internship opportunities
 *   ⚡  I am batman
 
 <a href="https://www.github.com/NirmalScaria" target="_blank" rel="noreferrer"></a>
