@@ -1,7 +1,7 @@
 Hi 👋 My name is Nirmal Scaria
 ==============================
 
-Full Stack Developer
+I am looking for internship opportunities
 --------------------
 
 I am currently pursuing my Masters in Computer Applications from National Institute of Technology, Kurukshetra. As of now, I have good experience in front end mobile development in Flutter and backend development in Django. Presently I am learning iOS development and Machine Learning.
