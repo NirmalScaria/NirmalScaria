@@ -7,7 +7,7 @@ I am currently pursuing my Masters in Computer Applications from National Instit
 
 *   🖥️  See my portfolio at [scaria.dev](http://scaria.dev)
 *   ✉️  You can contact me at [scaria@scaria.dev](mailto:scaria@scaria.dev)
-*   🚀  I'm currently working on [Le Git Graph](https://github.com/NirmalScaria/le-git-graph)
+*   🚀  I'm currently working on [NextFireJS](https://github.com/NirmalScaria/nextfirejs)
 *   🧠  I'm learning iOS Development and Machine Learning
 *   🤝  I'm looking for internship opportunities
 *   ⚡  I am batman
