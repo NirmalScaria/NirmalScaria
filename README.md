@@ -3,7 +3,7 @@ Hi 👋 My name is Nirmal Scaria
 
  <a href="https://www.linkedin.com/in/nirmal-scaria/" target="_blank" rel="noreferrer"><img src="https://www.learninglight.com/wp-content/uploads/2017/06/connect-on-LinkedIn-button.png" height="36" alt="Nirmal Scaria" /></a>
  
-I am currently pursuing my Masters in Computer Applications from National Institute of Technology, Kurukshetra. As of now, I have good experience in javascript, flutter, and django. Presently I am learning iOS development and Machine Learning.
+I have completed my Masters in Computer Applications from National Institute of Technology, Kurukshetra. As of now, I have good experience in javascript, NextJS, React, flutter, and django. Presently I am learning iOS development and Machine Learning.
 
 *   🖥️  See my portfolio at [scaria.dev](http://scaria.dev)
 *   ✉️  You can contact me at [scaria@scaria.dev](mailto:scaria@scaria.dev)
