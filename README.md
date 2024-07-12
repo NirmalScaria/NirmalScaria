@@ -8,8 +8,7 @@ I have completed my Masters in Computer Applications from National Institute of 
 *   🖥️  See my portfolio at [scaria.dev](http://scaria.dev)
 *   ✉️  You can contact me at [scaria@scaria.dev](mailto:scaria@scaria.dev)
 *   🚀  I'm currently working on [Firebase-NextJS](https://github.com/NirmalScaria/firebase-nextjs)
-*   🧠  I'm learning iOS Development and Machine Learning
-*   🤝  I'm looking for internship opportunities
+*   🧠  I'm learning NextJS and iOS development
 *   ⚡  I am batman
 
 <a href="https://www.github.com/NirmalScaria" target="_blank" rel="noreferrer"></a>
