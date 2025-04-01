@@ -10,6 +10,8 @@ You could sponsor me to help me keep maintaining and improving these features, a
 I’m also available for hire! Feel free to reach out at:
 scaria@scaria.dev
 
+Update: I am no longer available for hire (for the good). I got a job at Amazon!!!!!! 😭😭😭😭😭😭
+
 *   🖥️  See my portfolio at [scaria.dev](http://scaria.dev)
 *   ✉️  You can contact me at [scaria@scaria.dev](mailto:scaria@scaria.dev)
 *   🚀  I'm currently working on [Firebase-NextJS](https://github.com/NirmalScaria/firebase-nextjs) and [Bindle-UI](https://github.com/NirmalScaria/bindle-ui)
